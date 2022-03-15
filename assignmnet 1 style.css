@@ -1,8 +1,36 @@
 @charset "UTF-8";
 /* CSS Document */
 h1{
-	font-size: 72px;
+	font-size: 60px;
 	font-family: Helvetica, "sans-serif";
-	
+	text-align: center;
+	color: gray;
+}
+body{background-color: lavender}
+
+h2{
+	font-size: 30px;
+	font-family: Helvetica, "sans-serif";
+	text-align: center;
 }
 
+h3{
+	font-size: 30px;
+	font-family: Helvetica, "sans-serif";
+	text-align: center;
+}
+h4{
+	font-size: 30px;
+	font-family: Helvetica, "sans-serif";
+	text-align: center;
+}
+h5{
+	font-size: 30px;
+	font-family: Helvetica, "sans-serif";
+	text-align: center;
+}
+h6{
+	font-size: 40px;
+	font-family: Helvetica, "sans-serif";
+	text-align: center;
+}
